@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/rhythm-deolus-98506a213/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://rhythmbuilds.hashnode.dev/">
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I configure my neovim setup and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rhythm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rhythm-deolus-98506a213/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
