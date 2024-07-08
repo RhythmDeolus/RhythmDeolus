@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhythmDeolus&mode=daily&hide_current_streak=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmDeolus&size_weight=1&count_weight=0&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhythmDeolus&mode=daily&hide_current_streak=true)](https://git.io/streak-stats)
 
 
